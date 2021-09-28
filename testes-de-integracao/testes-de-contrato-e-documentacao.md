@@ -19,7 +19,7 @@ O teste de Contrato tem que validar:
 
 As formas que temos de interagir com um provider ou consumer precisam estar documentadas. 
 
-### Ferramentas que podemos criar:  <a id="ferramentas-que-podemos-criar"></a>
+### Ferramentas que podemos criar: 
 
 * **Swagger:** é uma linguagem de descrição de interface para descrever APIs RESTful expressas usando JSON. O Swagger é usado junto com um conjunto de ferramentas de software de código aberto para projetar, construir, documentar e usar serviços da Web RESTful.
 * **Pact:** lib para testes com detecção dos contratos e mock das interações.Pode ser usado com várias linguagens.

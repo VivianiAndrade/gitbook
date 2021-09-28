@@ -27,7 +27,9 @@ O Log exibe o trecho em formato texto através do sufixo .text.
 
 ![](../.gitbook/assets/api_robot_get_01.png)
 
-* Mais formatos podem ser consultados neste [doc.](http://rch-sl04:9000/mod06-response.pdf)
+* Mais formatos podem ser consultados no doc abaixo.
+
+{% file src="../.gitbook/assets/mod06-response.pdf" caption="Acessando o conteúdo do Response" %}
 
 ## Conferências da requisição <a id="confer&#xEA;ncias-da-requisi&#xE7;&#xE3;o"></a>
 
@@ -37,7 +39,7 @@ Ex: Conferir o status code, reason e lista.
 
 ![](../.gitbook/assets/image-8-.png)
 
-* [O que é HTTP, HTTP error e os principais códigos que você precisa saber](http://rch-sl04:9000/mod06_http_status.pdf)
+{% file src="../.gitbook/assets/mod06\_http\_status.pdf" caption="O que é HTTP, HTTP error e os principais códigos que você precisa saber" %}
 
 ## Conferências do JSON Body <a id="confer&#xEA;ncias-do-json-body"></a>
 
@@ -51,7 +53,7 @@ Para a verificação dos campos podemos utilizar **Dictionary Should Contain Ite
 
 ![](../.gitbook/assets/image-10-.png)
 
-* [Dicas de conferências em JSON](http://rch-sl04:9000/mod06_conferenciasjson.pdf)
+{% file src="../.gitbook/assets/mod06\_conferenciasjson.pdf" caption="Dicas de conferências em JSON" %}
 
 ## Automatizando uma requisição POST com HEADER e BODY <a id="automatizando-uma-requisi&#xE7;&#xE3;o-post-com-header-e-body"></a>
 
@@ -72,5 +74,5 @@ Dentro de cada Tag como Setup, Test, temos as Keywords executadas com seus retor
 
 ![](../.gitbook/assets/image-13-.png)
 
- fonte: Curso Automação de Testes com Robot Framework - Udemy. **por** [**Mayara Fernandes**](https://www.udemy.com/user/mayara-ribeiro-fernandes/)
+ _fonte: Curso Automação de Testes com Robot Framework - Udemy. **por**_ [_**Mayara Fernandes**_](https://www.udemy.com/user/mayara-ribeiro-fernandes/)\_\_
 
