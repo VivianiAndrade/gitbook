@@ -10,22 +10,14 @@
       * Testes de UI com Java
 2. **Caixa Branca:** tem como foco a análise do comportamento interno do software, ou seja, o seu código-fonte.
    1. **Teste de Unidade:** Testa um componente isolado ou classe do sistema.
+   2. **Teste de Integração:** Testa se um ou mais componentes combinados funcionam de maneira satisfatória. Há quem diga que o teste de integração é composto por vários testes de unidade.
+      * [Testes de Contrato e Documentação](https://app.gitbook.com/@programacao/s/qualidade/\~/drafts/-MkgN7PGQoFNvS5TRgjV/testes-de-integracao/testes-de-contrato-e-documentacao)
+      * [Testes de API com Postman](https://app.gitbook.com/@programacao/s/qualidade/\~/drafts/-MkgN7PGQoFNvS5TRgjV/testes-de-integracao/testes-de-api-com-postman)
+      * [Testes de API com Robot Framework](https://app.gitbook.com/@programacao/s/qualidade/\~/drafts/-MkgN7PGQoFNvS5TRgjV/testes-de-integracao/testes-de-api-com-robot-framework)
 
 ## Tipos de Testes de Software <a href="#tipos-de-testes-de-software" id="tipos-de-testes-de-software"></a>
 
 ![](.gitbook/assets/qualidade.png)
-
-**1.**&#x20;
-
-**2.**&#x20;
-
-**3.**&#x20;
-
-**4. Teste de Integração:** Testa se um ou mais componentes combinados funcionam de maneira satisfatória. Há quem diga que o teste de integração é composto por vários testes de unidade.
-
-* [Testes de Contrato e Documentação](https://app.gitbook.com/@programacao/s/qualidade/\~/drafts/-MkgN7PGQoFNvS5TRgjV/testes-de-integracao/testes-de-contrato-e-documentacao)
-* [Testes de API com Postman](https://app.gitbook.com/@programacao/s/qualidade/\~/drafts/-MkgN7PGQoFNvS5TRgjV/testes-de-integracao/testes-de-api-com-postman)
-* [Testes de API com Robot Framework](https://app.gitbook.com/@programacao/s/qualidade/\~/drafts/-MkgN7PGQoFNvS5TRgjV/testes-de-integracao/testes-de-api-com-robot-framework)
 
 **5. Teste de Performance:** O teste de performance se divide em 3 tipos:
 
