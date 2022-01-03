@@ -9,10 +9,7 @@
       * [Testes de UI com Robot Framework](https://app.gitbook.com/@programacao/s/qualidade/\~/drafts/-MkgN7PGQoFNvS5TRgjV/testes-de-integracao/testes-de-api-com-robot-framework)
       * Testes de UI com Java
 2. **Caixa Branca:** tem como foco a análise do comportamento interno do software, ou seja, o seu código-fonte.
-
-## &#x20;<a href="#tipos-de-testes-de-software" id="tipos-de-testes-de-software"></a>
-
-## &#x20;<a href="#tipos-de-testes-de-software" id="tipos-de-testes-de-software"></a>
+   1. **Teste de Unidade:** Testa um componente isolado ou classe do sistema.
 
 ## Tipos de Testes de Software <a href="#tipos-de-testes-de-software" id="tipos-de-testes-de-software"></a>
 
@@ -43,7 +40,7 @@
 
 **7. Teste de Segurança:** Testa se o sistema e os dados são acessados de maneira segura, apenas pelo autor das ações.
 
-**8. Teste de Unidade:** Testa um componente isolado ou classe do sistema.
+****
 
 **9. Teste de Configuração:** Testa se o software funciona no hardware a ser instalado.
 
