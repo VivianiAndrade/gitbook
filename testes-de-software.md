@@ -3,6 +3,11 @@
 ## Técnicas e Tipos de Testes de Software
 
 1. &#x20;**Caixa Preta:** é feito em cima das funções que devem ser desempenhadas pelo programa.
+   1. **Teste de Aceitação:** verificam se o produto realmente resolve o problema que foi feito para resolver. Isso pode ser feito melhor pelo usuário (cliente), por exemplo, executando suas tarefas com as quais o software auxilia.
+   2. **Teste de Funcional:** o teste funcional consiste em uma série de subtestes (técnicas), cujo objetivo é atestar se a aplicação é capaz de desempenhar as funções que se propõe a fazer.&#x20;
+   3. **Teste de Usabilidade:** Teste focado na experiência do usuário, consistência da interface, layout, acesso às funcionalidades etc.
+      * [Testes de UI com Robot Framework](https://app.gitbook.com/@programacao/s/qualidade/\~/drafts/-MkgN7PGQoFNvS5TRgjV/testes-de-integracao/testes-de-api-com-robot-framework)
+      * Testes de UI com Java
 2. **Caixa Branca:** tem como foco a análise do comportamento interno do software, ou seja, o seu código-fonte.
 
 ## &#x20;<a href="#tipos-de-testes-de-software" id="tipos-de-testes-de-software"></a>
@@ -13,17 +18,11 @@
 
 ![](.gitbook/assets/qualidade.png)
 
-**1. Teste de Aceitação:** verificam se o produto realmente resolve o problema que foi feito para resolver. Isso pode ser feito melhor pelo usuário (cliente), por exemplo, executando suas tarefas com as quais o software auxilia.
+**1.**&#x20;
 
-**2. Teste de Funcional:** o teste funcional consiste em uma série de subtestes (técnicas), cujo objetivo é atestar se a aplicação é capaz de desempenhar as funções que se propõe a fazer. As técnicas mais comuns englobadas pelo teste funcional são os testes denominados caixa-branca e caixa-preta.
+**2.**&#x20;
 
-* **Teste de**
-* ****
-
-**3. Teste de Usabilidade:** Teste focado na experiência do usuário, consistência da interface, layout, acesso às funcionalidades etc.
-
-* [Testes de UI com Robot Framework](https://app.gitbook.com/@programacao/s/qualidade/\~/drafts/-MkgN7PGQoFNvS5TRgjV/testes-de-integracao/testes-de-api-com-robot-framework)
-* Testes de UI com Java
+**3.**&#x20;
 
 **4. Teste de Integração:** Testa se um ou mais componentes combinados funcionam de maneira satisfatória. Há quem diga que o teste de integração é composto por vários testes de unidade.
 
