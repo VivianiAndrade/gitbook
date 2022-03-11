@@ -20,7 +20,9 @@
 
 ![](.gitbook/assets/qualidade.png)
 
-**5. Teste de Performance:** O teste de performance se divide em 3 tipos:
+### **Testes não funcionais:**
+
+**1. Teste de Performance:** O teste de performance se divide em 3 tipos:
 
 1. **Teste de carga:**\
    Testa o comportamento do sistema operando com o volume “normal” de dados e transações envolvendo o banco de dados durante um longo período de tempo. Ex.: tempo de resposta, número de transações por minuto, usuários simultâneos etc.
@@ -29,16 +31,12 @@
 3. **Teste de estabilidade:**\
    Testa se o sistema se mantém funcionando de maneira satisfatória após um período de uso.
 
-**6.**&#x20;
+**2. Teste de Segurança:** Testa se o sistema e os dados são acessados de maneira segura, apenas pelo autor das ações.
 
-**7. Teste de Segurança:** Testa se o sistema e os dados são acessados de maneira segura, apenas pelo autor das ações.
+**3. Teste de Configuração:** Testa se o software funciona no hardware a ser instalado.
 
-****
+**4. Teste de Instalação :**  Testa se o software instala como planejado, em diferentes hardwares e sob diferentes condições, como pouco espaço de memória, interrupções de rede, interrupções na instalação etc.
 
-**9. Teste de Configuração:** Testa se o software funciona no hardware a ser instalado.
+**5. Teste de integridade:** Testa a resistência do software à falhas (robustez).
 
-**10. Teste de Instalação :**  Testa se o software instala como planejado, em diferentes hardwares e sob diferentes condições, como pouco espaço de memória, interrupções de rede, interrupções na instalação etc.
-
-**11. Teste de integridade:** Testa a resistência do software à falhas (robustez).
-
-**13. Teste de Manutenção:** Testa se a mudança de ambiente não interferiu no funcionamento do sistema.
+**6. Teste de Manutenção:** Testa se a mudança de ambiente não interferiu no funcionamento do sistema.
